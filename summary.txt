@@ -1,0 +1,10 @@
+1. Why did you choose the tools, libraries, and language you used for the coding exercise?
+	I chose Python and Flask because Python is easy to work with for quick prototyping, and Flask is a lightweight framework well-suited for building REST APIs. Additionally, Flask has extensive documentation, making it easy to implement and maintain.
+
+2. What are the advantages and disadvantages of your solution?
+	Advantages: The solution is simple, lightweight, and easy to extend. It handles in-memory data, which simplifies testing.
+	Disadvantages: Since the data is stored in memory, the solution won't persist data across sessions. A more scalable solution would involve storing transactions in a database.
+
+3. What has been a favorite school/personal project thus far? What about it that challenged you?
+
+   My favorite project was in my senior year during undergrad when I built a recipe website that utilizes API's, ReactJs, and Scss to enable users to browse and access a variety of food recipes categorized by different criteria, and also offers users the ability to create individual profiles, share their unique recipes, and engage with other members by commenting on their recipes.
